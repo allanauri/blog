@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on allanauri.github.io</title>
+    <link>https://allanauri.github.io/tags/windows/</link>
+    <description>Recent content in Windows on allanauri.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 25 Jan 2020 16:22:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://allanauri.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pengenalan Docker</title>
+      <link>https://allanauri.github.io/2020/01/pengenalan-docker/</link>
+      <pubDate>Sat, 25 Jan 2020 16:22:42 +0800</pubDate>
+      
+      <guid>https://allanauri.github.io/2020/01/pengenalan-docker/</guid>
+      <description>Docker adalah salah satu platform yang dibangun berdasarkan teknologi container. Docker merupakan sebuah project open-source yang menyediakan platform terbuka untuk developer maupun sysadmin untuk dapat membangun, mengemas, dan menjalankan aplikasi dimanapun sebagai sebuah wadah (container) yang ringan. Dengan sangat populernya docker, sebagian orang sering menganggap docker adalah sebutan lain untuk container.
+Docker pertama kali dikembangkan oleh Solomon Hykes sebagai project internal di dotCloud bersama dengan beberapa koleganya seperti Andrea Luzzardi dan Francois-Xavier Bourlet.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>LoveIt Theme on LoveIt Theme</title>
-        <link>https://example.com/</link>
-        <description>Recent content in LoveIt Theme on LoveIt Theme</description>
+        <title>allanauri.github.io on allanauri.github.io</title>
+        <link>https://allanauri.github.io/</link>
+        <description>Recent content in allanauri.github.io on allanauri.github.io</description>
         <generator>Hugo -- gohugo.io</generator>
         
             <language>en</language>
@@ -12,7 +12,65 @@
             <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
         
         
-        <atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+            <lastBuildDate>Sun, 09 Feb 2020 05:06:32 +0700</lastBuildDate>
+        
+        <atom:link href="https://allanauri.github.io/" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Portofolio</title>
+                <link>https://allanauri.github.io/portofolio/</link>
+                <pubDate>Sun, 09 Feb 2020 05:06:32 +0700</pubDate>
+                
+                <guid>https://allanauri.github.io/portofolio/</guid>
+                <description>&lt;h2 id=&#34;design-fas-fa-desktop&#34;&gt;Design :(fas fa-desktop):&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Sejauh ini saya belum membuat design yg berarti. Mohon maaf, sebagian design saya hanya iseng-iseng saja di kala gabut.
+&lt;img src=&#34;https://allanauri.github.io/images/jual.gif&#34; alt=&#34;gif&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;apps-fas-fa-desktop&#34;&gt;Apps :(fas fa-desktop):&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Saya membuat nganu aplikasi tapi belum jadi.
+&lt;img src=&#34;https://allanauri.github.io/images/apps1.jpg&#34; alt=&#34;apps1&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ini juga aplikasi ala kadarnya
+&lt;img src=&#34;https://allanauri.github.io/images/apps2.jpg&#34; alt=&#34;apps2&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>About Me</title>
+                <link>https://allanauri.github.io/about/</link>
+                <pubDate>Sun, 02 Feb 2020 11:04:49 +0800</pubDate>
+                
+                <guid>https://allanauri.github.io/about/</guid>
+                <description>&lt;p&gt;&lt;img src=&#34;https://allanauri.github.io/images/einstein.jpg&#34; alt=&#34;Einstein&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;self-introduction-far-fa-user&#34;&gt;Self Introduction :(far fa-user):&lt;/h3&gt;
+&lt;p&gt;Perkenalkan, nama saya &lt;strong&gt;Allan Auri Putra Pamungkas&lt;/strong&gt;. Biasa dipanggil &lt;strong&gt;Allan&lt;/strong&gt; atau boleh memanggil saya dengan mas &lt;strong&gt;Pamungkas&lt;/strong&gt; - &lt;a href=&#34;https://www.youtube.com/watch?v=NO_cVedXdmM&#34;&gt;I love You but I&amp;rsquo;m Letting Go&lt;/a&gt;.
+Saya senang sekali belajar hal baru, khususnya di bidang teknologi informasi/komputer. Saya hobi mengotak-atik sistem, memodifikasi, atau istilahnya adalah ngoprek. Hardware pertama yg saya oprek adalah router TP link MR 3020 saya install dengan openwrt, dari situ saya belajar bahwa kita bisa memaksimalkan fungsi hardware dengan sistem operasi open source sehingga lebih mudah untuk dilakukan kustomisasi sesuai dengan kebutuhan.&lt;/p&gt;
+&lt;h3 id=&#34;pendidikan-fas-fa-desktop&#34;&gt;Pendidikan :(fas fa-desktop):&lt;/h3&gt;
+&lt;p&gt;Saat ini saya sedang menempuh studi S1 program studi &lt;a href=&#34;https://ptik.fkip.uns.ac.id&#34;&gt;Pendidikan Teknik Informatika dan Komputer&lt;/a&gt; di &lt;a href=&#34;https://www.uns.ac.id&#34;&gt;Universitas Negeri Sebelas Maret - UNS Solo - Sebelas Maret University&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pendidikan TIK also called Informatics Education or Computer Science Education. 
+&lt;em&gt;We teach the future&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;kontak-yg-bisa-dihubungi-fas-fa-mobile&#34;&gt;Kontak yg bisa dihubungi :(fas fa-mobile):&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href=&#34;mailto:allan.auri@gmail.com&#34;&gt;allan.auri@gmail.com&lt;/a&gt; ║ &lt;a href=&#34;mailto:allanauri@student.uns.ac.id&#34;&gt;allanauri@student.uns.ac.id&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Telepon: +62851578848088 (WhatsApp &amp;amp; Telegram)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            </item>
+        
+            <item>
+                <title>Posts</title>
+                <link>https://allanauri.github.io/posts/</link>
+                <pubDate>Sat, 25 Jan 2020 16:22:42 +0800</pubDate>
+                
+                <guid>https://allanauri.github.io/posts/</guid>
+                <description></description>
+            </item>
         
     </channel>
 </rss>
